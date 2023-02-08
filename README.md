@@ -11,6 +11,8 @@ You first type a filter of your choice. In this example, a certain date is being
 This is an additional filter used to find the city.
 ![](/second_filter.png)
 
+As you can see, it does a very good job at filtering given what filters you have provided.
+
 
 ## Summary
 
