@@ -5,7 +5,11 @@ In this project, we used Javascript, CSS, and HTML to build a webpage.In this we
 ![](/webpage.png)
 ## Results
 Searches are performed by providing filters as seen below.
+Type a filter
+![](/first_filter.png)
 
+Type a second filter
+![](/second_filter.png)
 
 
 ## Summary
