@@ -16,3 +16,4 @@ As you can see, it does a very good job at filtering given what filters you have
 
 ## Summary
 
+To summarize, this webpage has the ability to search through the data inside of it. One drawback of this webpage is that there is a small amount of data. For further development, more data should be added to provide the user with a more full experience. This data appears biased for the US so more data from the rest of the world needs to be provided. In the future, the webpage could be beautified by utilizing CSS.
