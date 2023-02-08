@@ -5,10 +5,10 @@ In this project, we used Javascript, CSS, and HTML to build a webpage.In this we
 ![](/webpage.png)
 ## Results
 Searches are performed by providing filters as seen below.
-Type a filter
+You first type a filter of your choice. In this example, a certain date is being provided to the date label.
 ![](/first_filter.png)
 
-Type a second filter
+This is an additional filter used to find the city.
 ![](/second_filter.png)
 
 
